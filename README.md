@@ -1,6 +1,3 @@
-Here's a template for a README file for a Selenium-based auto-booking system for USA visa scheduling. Feel free to adjust it according to your project's specifics:
-
----
 
 # USA Visa Scheduling Auto-Booking
 
